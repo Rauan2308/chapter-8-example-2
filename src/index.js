@@ -13,7 +13,7 @@ if (!process.env.PORT) {
 //
 // Extracts the PORT environment variable.
 //
-const PORT = process.env.PORT;
+const PORT = process.env.POR;
 
 //
 // HTTP GET route we can use to check if the service is handling requests.
